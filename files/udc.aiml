@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern></pattern>
+    <template>Is there something I can help you with today? I'm ready to assist!</template>
+  </category>
+<category>
+    <pattern>Hi</pattern>
+    <template>
+😀 hi! What can I help you with?</template>
+</category>
+<category>
+    <pattern>Hello</pattern>
+    <template>😀 hi! What can I help you with?</template>
+</category>
+<category>
+    <pattern>Generate a Minecraft village seed</pattern>
+    <template>-6854760096381222526</template>
+</category>
+<category>
+    <pattern>Generate a Map of NC, USA</pattern>
+    <template>Success! Go to uploadnow.io/f/7KvLpwp to get your map!</template>
+</category>
+<category>
+    <pattern>Generate a site that makes your YouTube videos ad free</pattern>
+    <template>Done! Visit pie.yt to get your videos ad free!</template>
+</category>
+<category>
+    <pattern>Generate a Adblocker </pattern>
+    <template>Go to chromewebstore.google.com/detail/pie-adblock-a-powerful-fr/jpkfgepcmmchgfbjblnodjhldacghenp?pli=1 to get your adblocker.</template>
+</category>
+<category>
+    <pattern>What can you do </pattern>
+    <template>First of all I am connected to Gemini! (2.5 Flash, Deep Thinking) and Copilot (deep research).</template>
+</category>
+<category>
+    <pattern>Anything else </pattern>
+    <template>Edit bot response</template>
+</category>
+</aiml>
