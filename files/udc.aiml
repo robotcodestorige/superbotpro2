@@ -34,7 +34,12 @@
     <template>First of all I am connected to Gemini! (2.5 Flash, Deep Thinking) and Copilot (deep research).</template>
 </category>
 <category>
-    <pattern>Anything else </pattern>
-    <template>Edit bot response</template>
+    <pattern>Generate a website on how humans will be able to get to mars </pattern>
+    <template>Go to g.co/gemini/share/1340ff371360
+ to get your site</template>
+</category>
+<category>
+    <pattern>Generate a website on how humans will be able to get to mars that is eco-friendly </pattern>
+    <template>Go to g.co/gemini/share/da797a12cf06 to get your site</template>
 </category>
 </aiml>
